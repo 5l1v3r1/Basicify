@@ -16,6 +16,20 @@
 
 ---
 
+## Important (for you guys)
+
+If you want this to be public for you guys to have, here is the goals.
+1. 25 stars = post src with only FUD.
+2. 50 stars = post src with 1 new command
+3. 100 stars = post src with 2 commands
+4. 500 stars = post src with all commands.
+or
+1. 50 Followers = post src with 1 new command.
+2. 100 Followers = post src with 2 new commands.
+3. 500 Followers = post src with 4 new commands.
+4. 1000 Followers = post full src
+
+Join my discord listed on my profile.
 ## What is Basicify?
 
 A backdoor that you can operate from a Discord server is called Basicify, a closed source Python Discord Bot. The agent and the Discord server communicate using the **Discord API**.
