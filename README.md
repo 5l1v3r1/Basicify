@@ -69,9 +69,9 @@ If you want to buy, Join my discord listed on my profile.
 
 ## To Do
 
-Add Auto Spread
-Auto Infect USB's
-Jumpscare's
-GPU Destroyer
+Add Auto Spread,
+Auto Infect USB's,
+Jumpscare's,
+GPU Destroyer.
 
 This github repository is made for educational purposes only. The developer is not responsible for any misuse of this software. **Do not use this software for illegal purposes.**
