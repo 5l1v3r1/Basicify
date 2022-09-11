@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Cxmplement/"><img src="https://cdn.discordapp.com/attachments/1017497432428384277/1018629055429488640/4535e76557baf98721d8fb899ac51906_1024x1024.png" width=600 weigth=500 alt="Basicify"></a>
+  <a href="https://github.com/Cxmplement/"><img src="https://cdn.discordapp.com/attachments/1017497432428384277/1018638519540912128/My_project-1_1.png" width=600 weigth=500 alt="Basicify"></a>
   <br>
   Basicify
   <br>
